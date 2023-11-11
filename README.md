@@ -19,4 +19,4 @@ Reflora is a technological solution designed for monitoring fires and supporting
 ## Code
 - dash: https://drive.google.com/file/d/1IaSYE_1MxjQ_xCnsSRzGXQGysjmv1Fyu/view?usp=sharing
 - map: https://drive.google.com/file/d/1Vdsk0er-xeddIBYK_waDyeochKLtwe98/view?usp=sharing
-- plants: 
+- plants: https://drive.google.com/file/d/1B2ppA949RXOsMEsyEpWNRPylDV7-wqXN/view?usp=sharing
